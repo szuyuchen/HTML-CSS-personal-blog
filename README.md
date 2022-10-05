@@ -2,7 +2,7 @@
 
 ### Purpose: 
 
-- Use HTML and CSS to create a personal coding topic blog in Chinese.
+- Use HTML and CSS to create a personal coding topic blog (content language is in Chinese).
 
 <img src="https://github.com/szuyuchen/HTML-CSS-personal-blog/blob/main/sample-image.png?raw=true" width=500>
 
