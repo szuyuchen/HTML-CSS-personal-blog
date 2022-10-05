@@ -1,0 +1,190 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  width: 90%;
+}
+
+.wrapper {
+  max-width: 1300px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+header {
+  width: 100%;
+  background: rgb(238, 174, 202);
+  background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+  position: fixed;
+  z-index: 100;
+}
+
+header h2 {
+  padding: 15px;
+  font-size: 30px;
+  padding-left: 10px;
+  font-weight: 500;
+}
+
+header nav {
+  width: 100%;
+  background-color: rgb(57, 56, 56);
+  padding-bottom: 10px;
+  padding-left: 20px;
+}
+
+header nav li li {
+  list-style: none;
+}
+
+header ul li {
+  display: inline-block;
+  margin-top: 10px;
+  margin-right: 40px;
+}
+
+header ul li a {
+  text-decoration: none;
+  color: #fff;
+}
+
+/* Latest article  */
+.latest-article {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 150px;
+  margin-bottom: 70px;
+  text-align: center;
+}
+
+.latest-article p {
+  font-weight: 600;
+  margin-top: 10px;
+}
+
+article a {
+  text-decoration: none;
+  color: #2b2929;
+  display: block;
+  margin-top: 10px;
+}
+
+article a::after {
+  content: "";
+  display: block;
+  width: 80px;
+  background-color: #2b2929;
+  height: 1px;
+  margin: 0 auto;
+}
+
+/* Main and Aside section */
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+main {
+  flex: 0.66;
+}
+
+main article {
+  margin-bottom: 50px;
+}
+
+main h1 {
+  font-size: 30px;
+}
+
+main ul {
+  list-style: none;
+  display: flex;
+  padding: 10px 0 10px 0;
+}
+
+main ul li {
+  margin-right: 40px;
+}
+
+main img {
+  width: 90%;
+}
+
+main .article-description {
+  text-align: center;
+  padding: 10px 85px 30px 40px;
+}
+
+/* Aside section  */
+aside {
+  flex: 0.33;
+}
+
+aside .author {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+aside .author h2 {
+  margin: 20px;
+}
+
+.author p {
+  max-width: 300px;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.author img {
+  width: 40%;
+}
+
+.ranking h2 {
+  text-align: center;
+}
+
+.ranking-article a {
+  text-align: center;
+  text-decoration: none;
+  color: #2b2929;
+}
+
+.ranking-article a img {
+  width: 100%;
+  padding: 15px;
+}
+
+.ranking-article p {
+  margin-bottom: 5px;
+}
+
+.archive {
+  margin-top: 40px;
+}
+
+.archive h2 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.archive ul {
+  list-style: none;
+  width: 80%;
+  margin: 0 auto;
+  border-bottom: 1px solid #2b2929;
+}
+
+.archive ul li {
+  padding: 25px;
+  border-top: 1px solid #2b2929;
+}
+
+.archive ul li a {
+  text-decoration: none;
+  color: #2b2929;
+}
