@@ -12,6 +12,8 @@
 
 <img src="https://github.com/szuyuchen/HTML-CSS-personal-blog/blob/main/sample-image2.png?raw=true" width=200>
 
+10/7 (RWD setting)
+
 ### Page link:
 
 https://szuyuchen.github.io/HTML-CSS-personal-blog/
