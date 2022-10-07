@@ -218,3 +218,43 @@ footer {
   letter-spacing: 1px;
   text-align: center;
 }
+
+/* Post */
+.blog-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 10vw;
+}
+
+.blog-container .blog-content {
+  width: 60%;
+}
+
+.blog-container .blog-content img {
+  width: 100%;
+  border-radius: 20px;
+}
+
+.blog-container .cate {
+  width: 30%;
+}
+
+/* Media Query setting */
+@media screen and (max-width: 768px) {
+  .latest-article {
+    flex-direction: column;
+  }
+
+  .latest-article article {
+    margin-bottom: 30px;
+  }
+
+  .container {
+    flex-direction: column;
+  }
+  
+  aside .ranking img {
+    width: 100%;
+  }
+}
