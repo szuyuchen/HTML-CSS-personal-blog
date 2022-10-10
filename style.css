@@ -219,7 +219,7 @@ footer {
   text-align: center;
 }
 
-/* Post */
+/* Post1 */
 .blog-container {
   display: flex;
   align-items: flex-start;
@@ -233,7 +233,6 @@ footer {
 
 .blog-container .blog-content img {
   width: 100%;
-  border-radius: 20px;
 }
 
 .blog-container .cate {
