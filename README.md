@@ -6,7 +6,7 @@
 
 #### Home page image 
 
-<img src="https://github.com/szuyuchen/HTML-CSS-personal-blog/blob/main/sample-image.png?raw=true" width=400>
+<img src="https://github.com/szuyuchen/HTML-CSS-personal-blog/blob/main/1011-sample-image.png?raw=true" width=400>
 
 #### Post page image
 
