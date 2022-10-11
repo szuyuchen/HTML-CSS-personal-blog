@@ -10,7 +10,7 @@
 
 #### Post page image
 
-<img src="https://github.com/szuyuchen/HTML-CSS-personal-blog/blob/main/sample-image2.png?raw=true" width=400>
+<img src="https://github.com/szuyuchen/HTML-CSS-personal-blog/blob/main/sample-post-image.png?raw=true" width=400>
 
 ### Page link:
 
