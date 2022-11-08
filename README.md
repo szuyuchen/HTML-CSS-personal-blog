@@ -2,7 +2,7 @@
 
 ### Purpose: 
 
-- Use HTML and CSS to create a personal coding topic blog (content language is in Chinese).
+- Use HTML and CSS to create a personal coding topic blog (content language is in Chinese). (Unfinished)
 
 #### Home page image 
 
@@ -23,3 +23,10 @@ https://szuyuchen.github.io/HTML-CSS-personal-blog/
 - Profile picture maker: https://profilepicturemaker.com/
 
 - Emoji list: https://tw.piliapp.com/emoji/list/
+
+
+### Memo:
+
+- About is unfinished.
+
+- Partly Links are not connected.
